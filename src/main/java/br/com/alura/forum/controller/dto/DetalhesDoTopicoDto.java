@@ -9,7 +9,7 @@ import br.com.alura.forum.modelo.StatusTopico;
 import br.com.alura.forum.modelo.Topico;
 
 public class DetalhesDoTopicoDto {
-	
+
 	private Long id;
 	private String titulo;
 	private String mensagem;
